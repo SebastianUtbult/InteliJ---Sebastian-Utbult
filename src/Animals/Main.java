@@ -8,6 +8,7 @@ public class Main{
             car.kö();
             car.MiljöDö();
             car.sväng();
+            car.hej();
         }
 
     }

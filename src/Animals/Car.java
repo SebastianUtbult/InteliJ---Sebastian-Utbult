@@ -9,4 +9,8 @@ abstract class Car {
 
     abstract void kö();
 
+    public static void hej(){
+        System.out.println("hej");
+    };
+
 }
